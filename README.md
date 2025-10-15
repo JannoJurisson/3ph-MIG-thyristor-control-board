@@ -7,8 +7,8 @@ Raspberry Pico board is used to monitor and control all the functions
 | Feature | Description |
 | :--- | :--- |
 | **Power Input** | +24V DC |
-| **Current Control** | Potentiometer adjustment for welding current. |
-| **Phase Monitoring** | Isolated inputs for all phases with missing phase detection. |
+| **Current Control** | Potentiometer adjustment for welding current.   |
+| **Phase Monitoring** | Isolated inputs for all phases for missing phase detection. |
 | **SCR Drive** | Isolated output for six SCRs via ferrite transformers (20KHz). |
 | **High-Current Outputs** | Gas solenoid, Main Contactor, Auxiliary Output. |
 | **Motor Drivers** | 2x `DRV8825` stepper motor drivers. |
